@@ -57,7 +57,14 @@
     left: 52em;
     margin-top: 45em;
     color: green;
-    
+  }
+  
+  .funzone {
+    position: absolute;
+    top: 0;
+    left: 38em;
+    margin-top: 45em;
+    color: green;
   }
   
   .wifezone {
