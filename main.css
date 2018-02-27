@@ -27,17 +27,27 @@
     /* border: 2px solid red; */
     top: 0;
     left: 25em;
-    margin-top: 25em;
-    color: green;
+    margin-top: 05em;
+    color: red;
     
   }
   
   .dangerzone {
     position: absolute;
     top: 0;
-    left: 50em;
-    margin-top: 15em;
-    color: green;
+    left: 52em;
+    margin-top: 05em;
+    color: red;
+    
+  }
+  
+  
+  .dickatrisk {
+    position: absolute;
+    top: 0;
+    left: 62em;
+    margin-top: 05em;
+    color: red;
     
   }
   
@@ -45,7 +55,7 @@
     position: absolute;
     top: 0;
     left: 52em;
-    margin-top: 28em;
+    margin-top: 45em;
     color: green;
     
   }
@@ -53,19 +63,19 @@
   .wifezone {
     position: absolute;
     top: 0;
-    left: 62em;
-    margin-top: 28em;
+    left: 64em;
+    margin-top: 45em;
     color: green;
     
   }
-  .waifu {
+  /* .waifu {
     position: absolute;
     top: 0;
     left: 62em;
     margin-top: 35em;
     color: green;
     
-  }
+  } */
   
   #instructions {font: 16px 'AmericanTypewriter', Cambria, Georgia; color: #282625; margin: 0 auto; width: 600px;}
 .paper {
